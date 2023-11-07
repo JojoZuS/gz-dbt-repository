@@ -3,10 +3,13 @@ version: 2
 sources:
   - name: raw  
     schema: gwz_raw_data
-  - tables:
-    - name: sales
-      identifier: raw_sales
-      description: sales
-
-
- 
+    tables:
+      - name: sales
+        identifier: raw_sales
+        description: sales
+      - name: product
+        identifier: raw_product
+        description: product
+      - name: ship
+        identifier: raw_ship
+        description: ship
