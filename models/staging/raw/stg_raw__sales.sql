@@ -10,8 +10,8 @@ renamed as (
 
     select
         date_date,
-        oders_id,
-        pdts_id AS products_id,
+        orders_id,
+        pdt_id AS products_id,
         revenue,
         quantity
 

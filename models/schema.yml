@@ -11,5 +11,5 @@ sources:
         identifier: raw_product
         description: product
       - name: ship
-        identifier: raw_ship
+        identifier: raw_shipping
         description: ship
